@@ -7,7 +7,7 @@ Welcome to the DevOps and Software Delivery Lab! This repository contains compre
 This repository is inspired by and complements the content from **"Fundamentals of DevOps and Software Delivery" by Yevgeniy Brikman**. We highly recommend reading this book for a deeper understanding of the concepts covered here.
 
 - **Weekly Journals 📔**: Documenting the learning journey week by week.
-  - 📅 [Week 0 Journal](journals/week-0.md)
-  - 📅 [Week 1 Journal](journals/week-1.md)
-  - 📅 [Week 2 Journal](journals/week-2.md)
+  - 📅 [Week 0 Journal](/journal/week0.md)
+  - 📅 [Week 1 Journal](comming soon!!!)
+
 
