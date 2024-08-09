@@ -9,7 +9,8 @@ This repository is inspired by and complements the content from **"Fundamentals 
 - **Weekly Journals 📔**: Documenting the learning journey week by week.
   - 📅 [Week-01-Journal](/journal/week0.md)
   - 📅 [Week-02-Deploying an App Using IaaS](/deploying-an-app-using-iaas/README.md)
-  - 📅 [Week 03 Journal](comming soon!!!)
+  - 📅 [Week-03-Infrastructure-as-Code](/infrastructure-as-code/bash/README.md)
+  - 📅 [Week 04 Journal](comming soon!!!)
 
 
 
