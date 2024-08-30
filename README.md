@@ -12,8 +12,9 @@ This repository is inspired by and complements the content from **"Fundamentals 
   - 📅 [Week-01-Journal](/journal/week0.md)
   - 📅 [Week-02-Deploying an App Using IaaS](/deploying-an-app-using-iaas/README.md)
   - 📅 [Week-03-Infrastructure-as-Code](/infrastructure-as-code/bash/README.md)
-  - 📅 [Week-03-IaC-Configure a Server Using Ansible](/infrastructure-as-code/ansible/README.md)
-  - 📅 [Week 04 Journal](comming soon!!!)
+  - 📅 [Week-04-IaC-Configure a Server Using Ansible](/infrastructure-as-code/ansible/README.md)
+  - 📅 [Week-05 Istio Service Mesh with Kubernetes Microservices](./istio-kubernetes-microservices-setup/README.md)
+  - 📅 [Week 06 Journal](comming soon!!!)
 
 
 
